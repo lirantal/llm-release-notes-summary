@@ -36,6 +36,14 @@ Install the project dependencies:
 pip install -r requirements.txt
 ```
 
+### Set up the OpenAI API key
+
+Copy the `.env.sample` file to the `.env` file, and update the `OPENAI_API_KEY` value with your OpenAI API key.
+
+```bash
+OPENAI_API_KEY="..."
+```
+
 ### Run the project
 
 Run the project:
