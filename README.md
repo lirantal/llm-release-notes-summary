@@ -51,3 +51,7 @@ Run the project:
 ```bash
 python main.py
 ```
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
